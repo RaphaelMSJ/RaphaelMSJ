@@ -31,7 +31,7 @@ public String[] CODES =
 
 
 Currently trying to improve this skills: NextJS, Django and React Native.<br />
-<a href="https://media.giphy.com/media/FcFs1TW9CMVyw/giphy.gif" target="_blank"><img src="https://media.giphy.com/media/FcFs1TW9CMVyw/giphy.gif" alt="LOL" width="280" ></a>
+<a href="https://media.giphy.com/media/uLvn7Y1brTPzAikswI/giphy.gif" target="_blank"><img src="https://media.giphy.com/media/uLvn7Y1brTPzAikswI/giphy.gif" alt="LOL" width="280" ></a>
 
 ### I trie to teach too :technologist:
 
